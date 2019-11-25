@@ -52,3 +52,20 @@ Set_Instructions("MMRMMRMRRM");
 --Expected Output:
 
 5 1 E
+
+
+
+**To run Code**
+
+I run the Code this time in **Linux** and **Windows**, 
+
+
+**RUN**
+run the code MarsRover.cpp 
+
+            - in terminal->   g++ -o Rover MarsRover.cpp
+            - ./Rover
+
+            -  The output ill be
+                    - The current location and heading of MarsRover is :1 2 N
+                    - The current location and heading of MarsRover is :5 1 E
