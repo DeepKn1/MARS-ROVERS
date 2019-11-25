@@ -63,7 +63,7 @@ I run the Code this time in **Linux** and **Windows**,
 **RUN**
 run the code MarsRover.cpp 
 
-            - in terminal->   g++ -o Rover MarsRover.cpp
+            - in terminal->   g++ -o Rover main.cpp MarsRover.cpp
             - ./Rover
 
             -  The output ill be
