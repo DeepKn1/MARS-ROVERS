@@ -14,11 +14,11 @@ private:
       
 
 public:
-       int Posx;
-       int Posy;
-       int Heading ;
       MarsRover();
       ~MarsRover();
+      int Posx;
+      int Posy;
+      int Heading ;
       void Set_Position ( int  , int  , char  );
       void Set_Instructions(std::string cmd);
       void Left_Rotation();
